@@ -1,1 +1,1 @@
-My second readme
+My second shell basics readme
