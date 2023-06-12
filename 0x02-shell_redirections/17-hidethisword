@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "*bins" /etc/passwd
